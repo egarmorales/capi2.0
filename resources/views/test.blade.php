@@ -10,7 +10,7 @@
         <!-- breadcrumb -->
         <ol class="breadcrumb">
             <li>Home</li>
-            <li>Blank</li>
+            <li>Test</li>
         </ol>
         <!-- end breadcrumb -->
 
@@ -37,7 +37,7 @@
 
                 <!-- PAGE HEADER -->
                 <i class="fa-fw fa fa-home"></i>
-                    Page Header
+                    Test
                 <span>>
                     Subtitle
                 </span>
